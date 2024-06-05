@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Solution URL: [Click Here](https://shopping-list-rho-ecru.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
